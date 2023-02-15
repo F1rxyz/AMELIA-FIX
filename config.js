@@ -56,71 +56,71 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['6285806459088', 'Moonlight', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nomer pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorbot = '6285806459088'
+global.nomorown = '6285806459088'
+global.nomorown1 = '6285806459088'
+global.nomorown2 = '6285806459088'//bisa nomer pacarmu
+global.nomorown3 = '6285806459088' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.author = 'Created By Moonlight'
+global.namebot = ' SevenNight'
+global.wm = '© SevenNight | Moonlight'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = 'SevenNight '
+global.wm3 = 'Moonlight'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
-global.nameown3 = 'Nothing'
-global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.titlebot = `SevenNight`
+global.stickpack = 'Moonlight'
+global.gcname = 'SevenNight'
+global.nameown1= 'Moonlight'
+global.nameown2 = 'Moonlight'
+global.nameown3 = 'Moonlight'
+global.packname2 = 'Moonlight
+global.stickauth = `© Moonlight`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'Moonlight'
 global.ultahowner = 'Febuari 02 2023'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.sgc = 'https://chat.whatsapp.com/FR1KfcQCayiabos8Ff' //group whatsapp
+global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r'
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
-global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
+global.sig = 'https://instagram.com/moonlightsvvx'
+global.sgh = 'https://github.com/F1rxyz' //github
+global.wame = 'wa.me/6285806459088'
+global.linkyt = ''
+global.tautanwa = 'wa.me/6285806459088' //kalau bisa link wa bisnis kalian
 global.sfb = 'https://www.facebook.com/' // facebook
 global.sdc = '-' //discord
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.fakeyt = 'https://youtube.com/@Putra_Modz_'
-global.snh = 'https://youtube.com/@Putra_Modz_'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.tik = 'https://www.tiktok.com/'
+global.gcwangsaf = 'https://chat.whatsapp.com/FRE3OTcQCayiabos8Ff'
+global.fakeyt = ''
+global.snh = ''
+global.syt = ''
+global.tik = 'https://www.tiktok.com/moonlightsvv'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.pdana = '6285806459088'
+global.povo = '6285806459088'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '6285806459088'
+global.ppulsa2 = '6285806459088'
+global.psaweria = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -376,9 +376,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/moonlightsvv x"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '6285806459088'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
